@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crazy Cash</string>
+    <string name="no_internet_label">У вас нет подключения к сети! Возвращайтесь когда будет интернет!</string>
+</resources>
